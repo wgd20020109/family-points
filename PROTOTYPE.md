@@ -72,6 +72,3 @@
 
 ## 11. 开发计划与技术栈建议
 - 前端：React Native / Flutter；后端：Node.js (Express) 或 Django；数据库：Postgres；缓存：Redis；媒体存储：S3 或私有对象存储；模型与 Agent：推理部署支持 OpenAI/HF/本地模型，CV 模型（轻量级物体/场景识别）用于初步验真。
-
-## 12. 附：截图说明模板
-请见 /screenshots/README.md，包含每张截图的文件名、说明文字与标注要点，便于直接用于内测申请佐证材料。
