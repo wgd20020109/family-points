@@ -12,5 +12,3 @@
 - 源代码目录占位：/src/{backend,mobile,agents}。
 
 贡献说明：欢迎通过 Issues 提交功能建议或 bug 报告；若提交 PR，请使用仓库提供的 PR 模板。
-
-联系人：请在 README 或 PROTOTYPE.md 中替换为你的联系方式（电子邮件或 GitHub 个人资料）。
